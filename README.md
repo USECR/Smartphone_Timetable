@@ -6,7 +6,9 @@
 
 只需在电脑端运行 Python 脚本，即可一键生成属于你的专属 HTML 单文件应用。它不仅拥有极简的暗黑 UI，还内置了工业级的防烧屏机制、手势交互系统以及智能排课算法。无需任何服务器部署，完全本地运行！
 
-![界面预览](display_view.png)
+<p align="center">
+  <img src="display_view.png" alt="界面预览" width="600"/>
+</p>
 
 ---
 
